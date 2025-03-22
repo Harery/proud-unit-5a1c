@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "proud-unit-5a1c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "24f2d944-2f8c-46dc-83bf-461e34cff25e",
+      "database_name": "weathered-bread-6bd7-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
